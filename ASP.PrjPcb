@@ -1,0 +1,1717 @@
+﻿[Design]
+Version=1.0
+HierarchyMode=0
+ChannelRoomNamingStyle=0
+ReleasesFolder=
+ChannelDesignatorFormatString=$Component_$RoomName
+ChannelRoomLevelSeperator=_
+OpenOutputs=1
+ArchiveProject=0
+TimestampOutput=0
+SeparateFolders=0
+TemplateLocationPath=
+PinSwapBy_Netlabel=1
+PinSwapBy_Pin=1
+AllowPortNetNames=0
+AllowSheetEntryNetNames=1
+AppendSheetNumberToLocalNets=0
+NetlistSinglePinNets=0
+DefaultConfiguration=Sources
+UserID=0xFFFFFFFF
+DefaultPcbProtel=1
+DefaultPcbPcad=0
+ReorderDocumentsOnCompile=1
+NameNetsHierarchically=0
+PowerPortNamesTakePriority=0
+AutoSheetNumbering=0
+AutoCrossReferences=0
+NewIndexingOfSheetSymbols=0
+PushECOToAnnotationFile=1
+DItemRevisionGUID=
+ReportSuppressedErrorsInMessages=0
+FSMCodingStyle=eFMSDropDownList_OneProcess
+FSMEncodingStyle=eFMSDropDownList_OneHot
+IsProjectConflictPreventionWarningsEnabled=1
+IsVirtualBomDocumentRemoved=0
+OutputPath=
+LogFolderPath=
+ManagedProjectGUID=
+IncludeDesignInRelease=0
+CrossRefSheetStyle=1
+CrossRefLocationStyle=1
+CrossRefPorts=3
+CrossRefCrossSheets=1
+CrossRefSheetEntries=0
+CrossRefFollowFromMainSettings=1
+CurrentVariant=SMD Variant
+
+[Preferences]
+PrefsVaultGUID=
+PrefsRevisionGUID=
+
+[Document1]
+DocumentPath=ASP_Job.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document2]
+DocumentPath=ASP_SCH.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VABXGSNP
+
+[Document3]
+DocumentPath=ASP_PCB.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XBIRYNRI
+
+[Document4]
+DocumentPath=ASP_PCB_2.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FLNDHGGF
+
+[Document5]
+DocumentPath=EMBED_SYM.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GWNDKDYD
+
+[Document6]
+DocumentPath=EMBED_FOOT.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LAHPPPEW
+
+[Document7]
+DocumentPath=ASP_PCB_SMD.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MSFJGBLW
+
+[Document8]
+DocumentPath=TimerSMD_Components.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AIUZLPYA
+
+[Document9]
+DocumentPath=TimerSMD_Models.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LLEBHXDT
+
+[ProjectVariant1]
+UniqueID=ED92C08A-1E2B-4A09-8D6C-158D8DDA2BC7
+Description=SMD Variant
+AllowFabrication=0
+ParameterCount=0
+VariationCount=11
+Variation1=Designator=C1|UniqueId=\UNXJVIUB|Kind=2|AlternatePart=0805_22p|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TimerSMD_Components.SchLib|AltLibLink_SymbolReference=100nF Cermaic|AltLibLink_DesignItemID=SMD Capacitor|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TimerSMD_Components.SchLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=C0805 - 10uf|AltLibLink_IsSameFootprint=False
+ParamVariation1=ParameterName=Comment|VariantValue=0805_22p
+ParamDesignator1=C1
+ParamVariation2=ParameterName=Capacitance|VariantValue=10uF
+ParamDesignator2=C1
+ParamVariation3=ParameterName=Case/Package|VariantValue=0805
+ParamDesignator3=C1
+ParamVariation4=ParameterName=Case Code (Imperial)|VariantValue=0805
+ParamDesignator4=C1
+ParamVariation5=ParameterName=Case Code (Metric)|VariantValue=2012
+ParamDesignator5=C1
+ParamVariation6=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator6=C1
+ParamVariation7=ParameterName=ComponentLink1Description|VariantValue=https://datasheet.ciiva.com/24218/c2012x5r1c106k085ac-264980-24218056.pdf?src-supplier=Mouser
+ParamDesignator7=C1
+ParamVariation8=ParameterName=ComponentLink1URL|VariantValue=https://datasheet.ciiva.com/24218/c2012x5r1c106k085ac-264980-24218056.pdf?src-supplier=Mouser
+ParamDesignator8=C1
+ParamVariation9=ParameterName=ComponentLink2Description|VariantValue=https://datasheet.ciiva.com/28451/1796654-28451610.pdf?src-supplier=Element14
+ParamDesignator9=C1
+ParamVariation10=ParameterName=ComponentLink2URL|VariantValue=https://datasheet.ciiva.com/28451/1796654-28451610.pdf?src-supplier=Element14
+ParamDesignator10=C1
+ParamVariation11=ParameterName=ComponentLink3Description|VariantValue=https://datasheet.ciiva.com/28602/1744655-28602170.pdf?src-supplier=Element14
+ParamDesignator11=C1
+ParamVariation12=ParameterName=ComponentLink3URL|VariantValue=https://datasheet.ciiva.com/28602/1744655-28602170.pdf?src-supplier=Element14
+ParamDesignator12=C1
+ParamVariation13=ParameterName=ComponentLink4Description|VariantValue=https://datasheet.ciiva.com/6259/tdkmlcccaprange-6259116.pdf?src-supplier=Digi-Key
+ParamDesignator13=C1
+ParamVariation14=ParameterName=ComponentLink4URL|VariantValue=https://datasheet.ciiva.com/6259/tdkmlcccaprange-6259116.pdf?src-supplier=Digi-Key
+ParamDesignator14=C1
+ParamVariation15=ParameterName=Depth|VariantValue=1.25mm
+ParamDesignator15=C1
+ParamVariation16=ParameterName=Description|VariantValue=TDK - C2012X5R1C106K085AC - SMD Multilayer Ceramic Capacitor, 10 µF, 16 V, 0805 [2012 Metric], ± 10%, X5R, C Series TDK
+ParamDesignator16=C1
+ParamVariation17=ParameterName=Dielectric|VariantValue=X5R
+ParamDesignator17=C1
+ParamVariation18=ParameterName=Dielectric Material|VariantValue=Ceramic
+ParamDesignator18=C1
+ParamVariation19=ParameterName=Footprint|VariantValue=C0805 - 10uf
+ParamDesignator19=C1
+ParamVariation20=ParameterName=Height|VariantValue=0.85mm
+ParamDesignator20=C1
+ParamVariation21=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator21=C1
+ParamVariation22=ParameterName=Lead Free|VariantValue=Lead Free
+ParamDesignator22=C1
+ParamVariation23=ParameterName=Length|VariantValue=2mm
+ParamDesignator23=C1
+ParamVariation24=ParameterName=Library Reference|VariantValue=SMD Capacitor
+ParamDesignator24=C1
+ParamVariation25=ParameterName=Manufacturer 1|VariantValue=TDK
+ParamDesignator25=C1
+ParamVariation26=ParameterName=Manufacturer Part Number 1|VariantValue=C2012X5R1C106K085AC
+ParamDesignator26=C1
+ParamVariation27=ParameterName=Max Operating Temperature|VariantValue=85°C
+ParamDesignator27=C1
+ParamVariation28=ParameterName=Min Operating Temperature|VariantValue=-55°C
+ParamDesignator28=C1
+ParamVariation29=ParameterName=Mount|VariantValue=Surface Mount
+ParamDesignator29=C1
+ParamVariation30=ParameterName=Number of Pins|VariantValue=2
+ParamDesignator30=C1
+ParamVariation31=ParameterName=Package Quantity|VariantValue=1
+ParamDesignator31=C1
+ParamVariation32=ParameterName=PCB3D|VariantValue= 
+ParamDesignator32=C1
+ParamVariation33=ParameterName=Pin Info|VariantValue= 
+ParamDesignator33=C1
+ParamVariation34=ParameterName=Pricing 1|VariantValue=1=0.24000, 10=0.16700, 50=0.11140, 100=0.09460, 500=0.06680, 1000=0.05844 (USD)
+ParamDesignator34=C1
+ParamVariation35=ParameterName=REACH SVHC|VariantValue=No SVHC
+ParamDesignator35=C1
+ParamVariation36=ParameterName=Resistor Type|VariantValue=Ceramic
+ParamDesignator36=C1
+ParamVariation37=ParameterName=RoHS|VariantValue=Yes
+ParamDesignator37=C1
+ParamVariation38=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator38=C1
+ParamVariation39=ParameterName=Simulation|VariantValue= 
+ParamDesignator39=C1
+ParamVariation40=ParameterName=Stock 1|VariantValue=1313952
+ParamDesignator40=C1
+ParamVariation41=ParameterName=Supplier 1|VariantValue=Digi-Key
+ParamDesignator41=C1
+ParamVariation42=ParameterName=Supplier Part Number 1|VariantValue=445-7644-1-ND
+ParamDesignator42=C1
+ParamVariation43=ParameterName=Termination|VariantValue=SMD/SMT
+ParamDesignator43=C1
+ParamVariation44=ParameterName=Thickness|VariantValue=0.037inch
+ParamDesignator44=C1
+ParamVariation45=ParameterName=Tolerance|VariantValue=10%
+ParamDesignator45=C1
+ParamVariation46=ParameterName=Voltage Rating|VariantValue=16V
+ParamDesignator46=C1
+ParamVariation47=ParameterName=Voltage Rating (DC)|VariantValue=16V
+ParamDesignator47=C1
+ParamVariation48=ParameterName=Weight|VariantValue=0.000194oz
+ParamDesignator48=C1
+ParamVariation49=ParameterName=Width|VariantValue=0.049inch
+ParamDesignator49=C1
+ParamVariation50=ParameterName=ComponentLink5Description|VariantValue=https://datasheet.ciiva.com/23803/1796654-23803020.pdf?src-supplier=Newark
+ParamDesignator50=C1
+ParamVariation51=ParameterName=ComponentLink5URL|VariantValue=https://datasheet.ciiva.com/23803/1796654-23803020.pdf?src-supplier=Newark
+ParamDesignator51=C1
+ParamVariation52=ParameterName=ComponentLink6Description|VariantValue=https://datasheet.ciiva.com/22719/1796654-22719549.pdf?src-supplier=Element14
+ParamDesignator52=C1
+ParamVariation53=ParameterName=ComponentLink6URL|VariantValue=https://datasheet.ciiva.com/22719/1796654-22719549.pdf?src-supplier=Element14
+ParamDesignator53=C1
+ParamVariation54=ParameterName=ComponentLink7Description|VariantValue=https://datasheet.ciiva.com/6259/tdkmlcccaprange-6259119.pdf?src-supplier=Digi-Key
+ParamDesignator54=C1
+ParamVariation55=ParameterName=ComponentLink7URL|VariantValue=https://datasheet.ciiva.com/6259/tdkmlcccaprange-6259119.pdf?src-supplier=Digi-Key
+ParamDesignator55=C1
+ParamVariation56=ParameterName=ComponentLink8Description|VariantValue=https://datasheet.ciiva.com/28673/mlcc-commercial-general-en-28673535.pdf?src-supplier=Element14
+ParamDesignator56=C1
+ParamVariation57=ParameterName=ComponentLink8URL|VariantValue=https://datasheet.ciiva.com/28673/mlcc-commercial-general-en-28673535.pdf?src-supplier=Element14
+ParamDesignator57=C1
+ParamVariation58=ParameterName=Parameter Name|VariantValue=Tape and Reel
+ParamDesignator58=C1
+Variation2=Designator=C2|UniqueId=\OUDTECGE|Kind=2|AlternatePart=0805_22p|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TimerSMD_Components.SchLib|AltLibLink_SymbolReference=100nF Cermaic|AltLibLink_DesignItemID=SMD Capacitor|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TimerSMD_Components.SchLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=C0805 - 10uf|AltLibLink_IsSameFootprint=False
+ParamVariation59=ParameterName=Comment|VariantValue=0805_22p
+ParamDesignator59=C2
+ParamVariation60=ParameterName=Capacitance|VariantValue=10uF
+ParamDesignator60=C2
+ParamVariation61=ParameterName=Case/Package|VariantValue=0805
+ParamDesignator61=C2
+ParamVariation62=ParameterName=Case Code (Imperial)|VariantValue=0805
+ParamDesignator62=C2
+ParamVariation63=ParameterName=Case Code (Metric)|VariantValue=2012
+ParamDesignator63=C2
+ParamVariation64=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator64=C2
+ParamVariation65=ParameterName=ComponentLink1Description|VariantValue=https://datasheet.ciiva.com/24218/c2012x5r1c106k085ac-264980-24218056.pdf?src-supplier=Mouser
+ParamDesignator65=C2
+ParamVariation66=ParameterName=ComponentLink1URL|VariantValue=https://datasheet.ciiva.com/24218/c2012x5r1c106k085ac-264980-24218056.pdf?src-supplier=Mouser
+ParamDesignator66=C2
+ParamVariation67=ParameterName=ComponentLink2Description|VariantValue=https://datasheet.ciiva.com/28451/1796654-28451610.pdf?src-supplier=Element14
+ParamDesignator67=C2
+ParamVariation68=ParameterName=ComponentLink2URL|VariantValue=https://datasheet.ciiva.com/28451/1796654-28451610.pdf?src-supplier=Element14
+ParamDesignator68=C2
+ParamVariation69=ParameterName=ComponentLink3Description|VariantValue=https://datasheet.ciiva.com/28602/1744655-28602170.pdf?src-supplier=Element14
+ParamDesignator69=C2
+ParamVariation70=ParameterName=ComponentLink3URL|VariantValue=https://datasheet.ciiva.com/28602/1744655-28602170.pdf?src-supplier=Element14
+ParamDesignator70=C2
+ParamVariation71=ParameterName=ComponentLink4Description|VariantValue=https://datasheet.ciiva.com/6259/tdkmlcccaprange-6259116.pdf?src-supplier=Digi-Key
+ParamDesignator71=C2
+ParamVariation72=ParameterName=ComponentLink4URL|VariantValue=https://datasheet.ciiva.com/6259/tdkmlcccaprange-6259116.pdf?src-supplier=Digi-Key
+ParamDesignator72=C2
+ParamVariation73=ParameterName=ComponentLink5Description|VariantValue=https://datasheet.ciiva.com/23803/1796654-23803020.pdf?src-supplier=Newark
+ParamDesignator73=C2
+ParamVariation74=ParameterName=ComponentLink5URL|VariantValue=https://datasheet.ciiva.com/23803/1796654-23803020.pdf?src-supplier=Newark
+ParamDesignator74=C2
+ParamVariation75=ParameterName=ComponentLink6Description|VariantValue=https://datasheet.ciiva.com/22719/1796654-22719549.pdf?src-supplier=Element14
+ParamDesignator75=C2
+ParamVariation76=ParameterName=ComponentLink6URL|VariantValue=https://datasheet.ciiva.com/22719/1796654-22719549.pdf?src-supplier=Element14
+ParamDesignator76=C2
+ParamVariation77=ParameterName=ComponentLink7Description|VariantValue=https://datasheet.ciiva.com/6259/tdkmlcccaprange-6259119.pdf?src-supplier=Digi-Key
+ParamDesignator77=C2
+ParamVariation78=ParameterName=ComponentLink7URL|VariantValue=https://datasheet.ciiva.com/6259/tdkmlcccaprange-6259119.pdf?src-supplier=Digi-Key
+ParamDesignator78=C2
+ParamVariation79=ParameterName=ComponentLink8Description|VariantValue=https://datasheet.ciiva.com/28673/mlcc-commercial-general-en-28673535.pdf?src-supplier=Element14
+ParamDesignator79=C2
+ParamVariation80=ParameterName=ComponentLink8URL|VariantValue=https://datasheet.ciiva.com/28673/mlcc-commercial-general-en-28673535.pdf?src-supplier=Element14
+ParamDesignator80=C2
+ParamVariation81=ParameterName=Depth|VariantValue=1.25mm
+ParamDesignator81=C2
+ParamVariation82=ParameterName=Description|VariantValue=TDK - C2012X5R1C106K085AC - SMD Multilayer Ceramic Capacitor, 10 µF, 16 V, 0805 [2012 Metric], ± 10%, X5R, C Series TDK
+ParamDesignator82=C2
+ParamVariation83=ParameterName=Dielectric|VariantValue=X5R
+ParamDesignator83=C2
+ParamVariation84=ParameterName=Dielectric Material|VariantValue=Ceramic
+ParamDesignator84=C2
+ParamVariation85=ParameterName=Footprint|VariantValue=C0805 - 10uf
+ParamDesignator85=C2
+ParamVariation86=ParameterName=Height|VariantValue=0.85mm
+ParamDesignator86=C2
+ParamVariation87=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator87=C2
+ParamVariation88=ParameterName=Lead Free|VariantValue=Lead Free
+ParamDesignator88=C2
+ParamVariation89=ParameterName=Length|VariantValue=2mm
+ParamDesignator89=C2
+ParamVariation90=ParameterName=Library Reference|VariantValue=SMD Capacitor
+ParamDesignator90=C2
+ParamVariation91=ParameterName=Manufacturer 1|VariantValue=TDK
+ParamDesignator91=C2
+ParamVariation92=ParameterName=Manufacturer Part Number 1|VariantValue=C2012X5R1C106K085AC
+ParamDesignator92=C2
+ParamVariation93=ParameterName=Max Operating Temperature|VariantValue=85°C
+ParamDesignator93=C2
+ParamVariation94=ParameterName=Min Operating Temperature|VariantValue=-55°C
+ParamDesignator94=C2
+ParamVariation95=ParameterName=Mount|VariantValue=Surface Mount
+ParamDesignator95=C2
+ParamVariation96=ParameterName=Number of Pins|VariantValue=2
+ParamDesignator96=C2
+ParamVariation97=ParameterName=Package Quantity|VariantValue=1
+ParamDesignator97=C2
+ParamVariation98=ParameterName=Parameter Name|VariantValue=Tape and Reel
+ParamDesignator98=C2
+ParamVariation99=ParameterName=PCB3D|VariantValue= 
+ParamDesignator99=C2
+ParamVariation100=ParameterName=Pin Info|VariantValue= 
+ParamDesignator100=C2
+ParamVariation101=ParameterName=Pricing 1|VariantValue=1=0.24000, 10=0.16700, 50=0.11140, 100=0.09460, 500=0.06680, 1000=0.05844 (USD)
+ParamDesignator101=C2
+ParamVariation102=ParameterName=REACH SVHC|VariantValue=No SVHC
+ParamDesignator102=C2
+ParamVariation103=ParameterName=Resistor Type|VariantValue=Ceramic
+ParamDesignator103=C2
+ParamVariation104=ParameterName=RoHS|VariantValue=Yes
+ParamDesignator104=C2
+ParamVariation105=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator105=C2
+ParamVariation106=ParameterName=Simulation|VariantValue= 
+ParamDesignator106=C2
+ParamVariation107=ParameterName=Stock 1|VariantValue=1313952
+ParamDesignator107=C2
+ParamVariation108=ParameterName=Supplier 1|VariantValue=Digi-Key
+ParamDesignator108=C2
+ParamVariation109=ParameterName=Supplier Part Number 1|VariantValue=445-7644-1-ND
+ParamDesignator109=C2
+ParamVariation110=ParameterName=Termination|VariantValue=SMD/SMT
+ParamDesignator110=C2
+ParamVariation111=ParameterName=Thickness|VariantValue=0.037inch
+ParamDesignator111=C2
+ParamVariation112=ParameterName=Tolerance|VariantValue=10%
+ParamDesignator112=C2
+ParamVariation113=ParameterName=Voltage Rating|VariantValue=16V
+ParamDesignator113=C2
+ParamVariation114=ParameterName=Voltage Rating (DC)|VariantValue=16V
+ParamDesignator114=C2
+ParamVariation115=ParameterName=Weight|VariantValue=0.000194oz
+ParamDesignator115=C2
+ParamVariation116=ParameterName=Width|VariantValue=0.049inch
+ParamDesignator116=C2
+Variation3=Designator=C3|UniqueId=\KBBVBCOX|Kind=2|AlternatePart=0805_100n|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TimerSMD_Components.SchLib|AltLibLink_SymbolReference=100nF Cermaic|AltLibLink_DesignItemID=SMD Capacitor|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TimerSMD_Components.SchLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=C0805 - 10uf|AltLibLink_IsSameFootprint=False
+ParamVariation117=ParameterName=Comment|VariantValue=0805_100n
+ParamDesignator117=C3
+ParamVariation118=ParameterName=Capacitance|VariantValue=10uF
+ParamDesignator118=C3
+ParamVariation119=ParameterName=Case/Package|VariantValue=0805
+ParamDesignator119=C3
+ParamVariation120=ParameterName=Case Code (Imperial)|VariantValue=0805
+ParamDesignator120=C3
+ParamVariation121=ParameterName=Case Code (Metric)|VariantValue=2012
+ParamDesignator121=C3
+ParamVariation122=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator122=C3
+ParamVariation123=ParameterName=ComponentLink1Description|VariantValue=https://datasheet.ciiva.com/24218/c2012x5r1c106k085ac-264980-24218056.pdf?src-supplier=Mouser
+ParamDesignator123=C3
+ParamVariation124=ParameterName=ComponentLink1URL|VariantValue=https://datasheet.ciiva.com/24218/c2012x5r1c106k085ac-264980-24218056.pdf?src-supplier=Mouser
+ParamDesignator124=C3
+ParamVariation125=ParameterName=ComponentLink2Description|VariantValue=https://datasheet.ciiva.com/28451/1796654-28451610.pdf?src-supplier=Element14
+ParamDesignator125=C3
+ParamVariation126=ParameterName=ComponentLink2URL|VariantValue=https://datasheet.ciiva.com/28451/1796654-28451610.pdf?src-supplier=Element14
+ParamDesignator126=C3
+ParamVariation127=ParameterName=ComponentLink3Description|VariantValue=https://datasheet.ciiva.com/28602/1744655-28602170.pdf?src-supplier=Element14
+ParamDesignator127=C3
+ParamVariation128=ParameterName=ComponentLink3URL|VariantValue=https://datasheet.ciiva.com/28602/1744655-28602170.pdf?src-supplier=Element14
+ParamDesignator128=C3
+ParamVariation129=ParameterName=ComponentLink4Description|VariantValue=https://datasheet.ciiva.com/6259/tdkmlcccaprange-6259116.pdf?src-supplier=Digi-Key
+ParamDesignator129=C3
+ParamVariation130=ParameterName=ComponentLink4URL|VariantValue=https://datasheet.ciiva.com/6259/tdkmlcccaprange-6259116.pdf?src-supplier=Digi-Key
+ParamDesignator130=C3
+ParamVariation131=ParameterName=ComponentLink5Description|VariantValue=https://datasheet.ciiva.com/23803/1796654-23803020.pdf?src-supplier=Newark
+ParamDesignator131=C3
+ParamVariation132=ParameterName=ComponentLink5URL|VariantValue=https://datasheet.ciiva.com/23803/1796654-23803020.pdf?src-supplier=Newark
+ParamDesignator132=C3
+ParamVariation133=ParameterName=ComponentLink6Description|VariantValue=https://datasheet.ciiva.com/22719/1796654-22719549.pdf?src-supplier=Element14
+ParamDesignator133=C3
+ParamVariation134=ParameterName=ComponentLink6URL|VariantValue=https://datasheet.ciiva.com/22719/1796654-22719549.pdf?src-supplier=Element14
+ParamDesignator134=C3
+ParamVariation135=ParameterName=ComponentLink7Description|VariantValue=https://datasheet.ciiva.com/6259/tdkmlcccaprange-6259119.pdf?src-supplier=Digi-Key
+ParamDesignator135=C3
+ParamVariation136=ParameterName=ComponentLink7URL|VariantValue=https://datasheet.ciiva.com/6259/tdkmlcccaprange-6259119.pdf?src-supplier=Digi-Key
+ParamDesignator136=C3
+ParamVariation137=ParameterName=ComponentLink8Description|VariantValue=https://datasheet.ciiva.com/28673/mlcc-commercial-general-en-28673535.pdf?src-supplier=Element14
+ParamDesignator137=C3
+ParamVariation138=ParameterName=ComponentLink8URL|VariantValue=https://datasheet.ciiva.com/28673/mlcc-commercial-general-en-28673535.pdf?src-supplier=Element14
+ParamDesignator138=C3
+ParamVariation139=ParameterName=Depth|VariantValue=1.25mm
+ParamDesignator139=C3
+ParamVariation140=ParameterName=Description|VariantValue=TDK - C2012X5R1C106K085AC - SMD Multilayer Ceramic Capacitor, 10 µF, 16 V, 0805 [2012 Metric], ± 10%, X5R, C Series TDK
+ParamDesignator140=C3
+ParamVariation141=ParameterName=Dielectric|VariantValue=X5R
+ParamDesignator141=C3
+ParamVariation142=ParameterName=Dielectric Material|VariantValue=Ceramic
+ParamDesignator142=C3
+ParamVariation143=ParameterName=Footprint|VariantValue=C0805 - 10uf
+ParamDesignator143=C3
+ParamVariation144=ParameterName=Height|VariantValue=0.85mm
+ParamDesignator144=C3
+ParamVariation145=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator145=C3
+ParamVariation146=ParameterName=Lead Free|VariantValue=Lead Free
+ParamDesignator146=C3
+ParamVariation147=ParameterName=Length|VariantValue=2mm
+ParamDesignator147=C3
+ParamVariation148=ParameterName=Library Reference|VariantValue=SMD Capacitor
+ParamDesignator148=C3
+ParamVariation149=ParameterName=Manufacturer 1|VariantValue=TDK
+ParamDesignator149=C3
+ParamVariation150=ParameterName=Manufacturer Part Number 1|VariantValue=C2012X5R1C106K085AC
+ParamDesignator150=C3
+ParamVariation151=ParameterName=Max Operating Temperature|VariantValue=85°C
+ParamDesignator151=C3
+ParamVariation152=ParameterName=Min Operating Temperature|VariantValue=-55°C
+ParamDesignator152=C3
+ParamVariation153=ParameterName=Mount|VariantValue=Surface Mount
+ParamDesignator153=C3
+ParamVariation154=ParameterName=Number of Pins|VariantValue=2
+ParamDesignator154=C3
+ParamVariation155=ParameterName=Package Quantity|VariantValue=1
+ParamDesignator155=C3
+ParamVariation156=ParameterName=Parameter Name|VariantValue=Tape and Reel
+ParamDesignator156=C3
+ParamVariation157=ParameterName=PCB3D|VariantValue= 
+ParamDesignator157=C3
+ParamVariation158=ParameterName=Pin Info|VariantValue= 
+ParamDesignator158=C3
+ParamVariation159=ParameterName=Pricing 1|VariantValue=1=0.24000, 10=0.16700, 50=0.11140, 100=0.09460, 500=0.06680, 1000=0.05844 (USD)
+ParamDesignator159=C3
+ParamVariation160=ParameterName=REACH SVHC|VariantValue=No SVHC
+ParamDesignator160=C3
+ParamVariation161=ParameterName=Resistor Type|VariantValue=Ceramic
+ParamDesignator161=C3
+ParamVariation162=ParameterName=RoHS|VariantValue=Yes
+ParamDesignator162=C3
+ParamVariation163=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator163=C3
+ParamVariation164=ParameterName=Simulation|VariantValue= 
+ParamDesignator164=C3
+ParamVariation165=ParameterName=Stock 1|VariantValue=1313952
+ParamDesignator165=C3
+ParamVariation166=ParameterName=Supplier 1|VariantValue=Digi-Key
+ParamDesignator166=C3
+ParamVariation167=ParameterName=Supplier Part Number 1|VariantValue=445-7644-1-ND
+ParamDesignator167=C3
+ParamVariation168=ParameterName=Termination|VariantValue=SMD/SMT
+ParamDesignator168=C3
+ParamVariation169=ParameterName=Thickness|VariantValue=0.037inch
+ParamDesignator169=C3
+ParamVariation170=ParameterName=Tolerance|VariantValue=10%
+ParamDesignator170=C3
+ParamVariation171=ParameterName=Voltage Rating|VariantValue=16V
+ParamDesignator171=C3
+ParamVariation172=ParameterName=Voltage Rating (DC)|VariantValue=16V
+ParamDesignator172=C3
+ParamVariation173=ParameterName=Weight|VariantValue=0.000194oz
+ParamDesignator173=C3
+ParamVariation174=ParameterName=Width|VariantValue=0.049inch
+ParamDesignator174=C3
+Variation4=Designator=R4|UniqueId=\YCZLQTBM|Kind=2|AlternatePart=0805_68R|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TimerSMD_Components.SchLib|AltLibLink_SymbolReference=TH CFR-25 Resis|AltLibLink_DesignItemID=0805 Resistor|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TimerSMD_Components.SchLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R0805|AltLibLink_IsSameFootprint=False
+ParamVariation175=ParameterName=Comment|VariantValue=0805_68R
+ParamDesignator175=R4
+ParamVariation176=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator176=R4
+ParamVariation177=ParameterName=Description|VariantValue= 
+ParamDesignator177=R4
+ParamVariation178=ParameterName=Footprint|VariantValue=R0805
+ParamDesignator178=R4
+ParamVariation179=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator179=R4
+ParamVariation180=ParameterName=Library Reference|VariantValue=0805 Resistor
+ParamDesignator180=R4
+ParamVariation181=ParameterName=PCB3D|VariantValue= 
+ParamDesignator181=R4
+ParamVariation182=ParameterName=Pin Info|VariantValue= 
+ParamDesignator182=R4
+ParamVariation183=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator183=R4
+ParamVariation184=ParameterName=Simulation|VariantValue= 
+ParamDesignator184=R4
+Variation5=Designator=R5|UniqueId=\ZSTYOQVX|Kind=2|AlternatePart=0805_68R|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TimerSMD_Components.SchLib|AltLibLink_SymbolReference=TH CFR-25 Resis|AltLibLink_DesignItemID=0805 Resistor|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TimerSMD_Components.SchLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R0805|AltLibLink_IsSameFootprint=False
+ParamVariation185=ParameterName=Comment|VariantValue=0805_68R
+ParamDesignator185=R5
+ParamVariation186=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator186=R5
+ParamVariation187=ParameterName=Description|VariantValue= 
+ParamDesignator187=R5
+ParamVariation188=ParameterName=Footprint|VariantValue=R0805
+ParamDesignator188=R5
+ParamVariation189=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator189=R5
+ParamVariation190=ParameterName=Library Reference|VariantValue=0805 Resistor
+ParamDesignator190=R5
+ParamVariation191=ParameterName=PCB3D|VariantValue= 
+ParamDesignator191=R5
+ParamVariation192=ParameterName=Pin Info|VariantValue= 
+ParamDesignator192=R5
+ParamVariation193=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator193=R5
+ParamVariation194=ParameterName=Simulation|VariantValue= 
+ParamDesignator194=R5
+Variation6=Designator=R6|UniqueId=\GFLSUPDG|Kind=2|AlternatePart=0805_1k2|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TimerSMD_Components.SchLib|AltLibLink_SymbolReference=TH CFR-25 Resis|AltLibLink_DesignItemID=0805 Resistor|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TimerSMD_Components.SchLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R0805|AltLibLink_IsSameFootprint=False
+ParamVariation195=ParameterName=Comment|VariantValue=0805_1k2
+ParamDesignator195=R6
+ParamVariation196=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator196=R6
+ParamVariation197=ParameterName=Description|VariantValue= 
+ParamDesignator197=R6
+ParamVariation198=ParameterName=Footprint|VariantValue=R0805
+ParamDesignator198=R6
+ParamVariation199=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator199=R6
+ParamVariation200=ParameterName=Library Reference|VariantValue=0805 Resistor
+ParamDesignator200=R6
+ParamVariation201=ParameterName=PCB3D|VariantValue= 
+ParamDesignator201=R6
+ParamVariation202=ParameterName=Pin Info|VariantValue= 
+ParamDesignator202=R6
+ParamVariation203=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator203=R6
+ParamVariation204=ParameterName=Simulation|VariantValue= 
+ParamDesignator204=R6
+Variation7=Designator=R3|UniqueId=\XPTROIIZ|Kind=2|AlternatePart=0805_R|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TimerSMD_Components.SchLib|AltLibLink_SymbolReference=TH CFR-25 Resis|AltLibLink_DesignItemID=0805 Resistor|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TimerSMD_Components.SchLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R0805|AltLibLink_IsSameFootprint=False
+ParamVariation205=ParameterName=Comment|VariantValue=0805_R
+ParamDesignator205=R3
+ParamVariation206=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator206=R3
+ParamVariation207=ParameterName=Description|VariantValue= 
+ParamDesignator207=R3
+ParamVariation208=ParameterName=Footprint|VariantValue=R0805
+ParamDesignator208=R3
+ParamVariation209=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator209=R3
+ParamVariation210=ParameterName=Library Reference|VariantValue=0805 Resistor
+ParamDesignator210=R3
+ParamVariation211=ParameterName=PCB3D|VariantValue= 
+ParamDesignator211=R3
+ParamVariation212=ParameterName=Pin Info|VariantValue= 
+ParamDesignator212=R3
+ParamVariation213=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator213=R3
+ParamVariation214=ParameterName=Simulation|VariantValue= 
+ParamDesignator214=R3
+Variation8=Designator=R1|UniqueId=\NJPMRAIR|Kind=2|AlternatePart=0805_1k2|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TimerSMD_Components.SchLib|AltLibLink_SymbolReference=TH CFR-25 Resis|AltLibLink_DesignItemID=0805 Resistor|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TimerSMD_Components.SchLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R0805|AltLibLink_IsSameFootprint=False
+ParamVariation215=ParameterName=Comment|VariantValue=0805_1k2
+ParamDesignator215=R1
+ParamVariation216=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator216=R1
+ParamVariation217=ParameterName=Description|VariantValue= 
+ParamDesignator217=R1
+ParamVariation218=ParameterName=Footprint|VariantValue=R0805
+ParamDesignator218=R1
+ParamVariation219=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator219=R1
+ParamVariation220=ParameterName=Library Reference|VariantValue=0805 Resistor
+ParamDesignator220=R1
+ParamVariation221=ParameterName=PCB3D|VariantValue= 
+ParamDesignator221=R1
+ParamVariation222=ParameterName=Pin Info|VariantValue= 
+ParamDesignator222=R1
+ParamVariation223=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator223=R1
+ParamVariation224=ParameterName=Simulation|VariantValue= 
+ParamDesignator224=R1
+Variation9=Designator=R2|UniqueId=\OPUYACDI|Kind=2|AlternatePart=0805_1k2|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TimerSMD_Components.SchLib|AltLibLink_SymbolReference=TH CFR-25 Resis|AltLibLink_DesignItemID=0805 Resistor|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TimerSMD_Components.SchLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R0805|AltLibLink_IsSameFootprint=False
+ParamVariation225=ParameterName=Comment|VariantValue=0805_1k2
+ParamDesignator225=R2
+ParamVariation226=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator226=R2
+ParamVariation227=ParameterName=Description|VariantValue= 
+ParamDesignator227=R2
+ParamVariation228=ParameterName=Footprint|VariantValue=R0805
+ParamDesignator228=R2
+ParamVariation229=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator229=R2
+ParamVariation230=ParameterName=Library Reference|VariantValue=0805 Resistor
+ParamDesignator230=R2
+ParamVariation231=ParameterName=PCB3D|VariantValue= 
+ParamDesignator231=R2
+ParamVariation232=ParameterName=Pin Info|VariantValue= 
+ParamDesignator232=R2
+ParamVariation233=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator233=R2
+ParamVariation234=ParameterName=Simulation|VariantValue= 
+ParamDesignator234=R2
+Variation10=Designator=D3|UniqueId=\JERFETMI|Kind=2|AlternatePart=LL-34 3V6|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TimerSMD_Components.SchLib|AltLibLink_SymbolReference=Zener|AltLibLink_DesignItemID=Zener 5V1 LL-34|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TimerSMD_Components.SchLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=LL-34|AltLibLink_IsSameFootprint=False
+ParamVariation235=ParameterName=Comment|VariantValue=LL-34 3V6
+ParamDesignator235=D3
+ParamVariation236=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator236=D3
+ParamVariation237=ParameterName=Description|VariantValue= 
+ParamDesignator237=D3
+ParamVariation238=ParameterName=Footprint|VariantValue=LL-34
+ParamDesignator238=D3
+ParamVariation239=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator239=D3
+ParamVariation240=ParameterName=Library Reference|VariantValue=Zener 5V1 LL-34
+ParamDesignator240=D3
+ParamVariation241=ParameterName=PCB3D|VariantValue= 
+ParamDesignator241=D3
+ParamVariation242=ParameterName=Pin Info|VariantValue= 
+ParamDesignator242=D3
+ParamVariation243=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator243=D3
+ParamVariation244=ParameterName=Simulation|VariantValue= 
+ParamDesignator244=D3
+Variation11=Designator=D4|UniqueId=\SHNBWMYI|Kind=2|AlternatePart=LL-34 3V6|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=TimerSMD_Components.SchLib|AltLibLink_SymbolReference=Zener|AltLibLink_DesignItemID=Zener 5V1 LL-34|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=TimerSMD_Components.SchLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=LL-34|AltLibLink_IsSameFootprint=False
+ParamVariation245=ParameterName=Comment|VariantValue=LL-34 3V6
+ParamDesignator245=D4
+ParamVariation246=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator246=D4
+ParamVariation247=ParameterName=Description|VariantValue= 
+ParamDesignator247=D4
+ParamVariation248=ParameterName=Footprint|VariantValue=LL-34
+ParamDesignator248=D4
+ParamVariation249=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator249=D4
+ParamVariation250=ParameterName=Library Reference|VariantValue=Zener 5V1 LL-34
+ParamDesignator250=D4
+ParamVariation251=ParameterName=PCB3D|VariantValue= 
+ParamDesignator251=D4
+ParamVariation252=ParameterName=Pin Info|VariantValue= 
+ParamDesignator252=D4
+ParamVariation253=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator253=D4
+ParamVariation254=ParameterName=Simulation|VariantValue= 
+ParamDesignator254=D4
+ParamVariationCount=254
+
+[Configuration1]
+Name=Sources
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=[No Variations]
+OutputJobsCount=0
+ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
+ConfigurationType=Source
+
+[OutputGroup1]
+Name=Netlist Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=CadnetixNetlist
+OutputName1=Cadnetix Netlist
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=CalayNetlist
+OutputName2=Calay Netlist
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=EDIF
+OutputName3=EDIF for PCB
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+OutputType4=EESofNetlist
+OutputName4=EESof Netlist
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+OutputType5=IntergraphNetlist
+OutputName5=Intergraph Netlist
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+OutputType6=MentorBoardStationNetlist
+OutputName6=Mentor BoardStation Netlist
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+OutputType7=MultiWire
+OutputName7=MultiWire
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+OutputType8=OrCadPCB2Netlist
+OutputName8=Orcad/PCB2 Netlist
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+OutputType9=PADSNetlist
+OutputName9=PADS ASCII Netlist
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+OutputType10=Pcad
+OutputName10=Pcad for PCB
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=PCADNetlist
+OutputName11=PCAD Netlist
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=PCADnltNetlist
+OutputName12=PCADnlt Netlist
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=Protel2Netlist
+OutputName13=Protel2 Netlist
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=ProtelNetlist
+OutputName14=Protel
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=RacalNetlist
+OutputName15=Racal Netlist
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=RINFNetlist
+OutputName16=RINF Netlist
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SciCardsNetlist
+OutputName17=SciCards Netlist
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+OutputType18=TangoNetlist
+OutputName18=Tango Netlist
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
+OutputType19=TelesisNetlist
+OutputName19=Telesis Netlist
+OutputDocumentPath19=
+OutputVariantName19=
+OutputDefault19=0
+OutputType20=WireListNetlist
+OutputName20=WireList Netlist
+OutputDocumentPath20=
+OutputVariantName20=
+OutputDefault20=0
+OutputType21=SIMetrixNetlist
+OutputName21=SIMetrix
+OutputDocumentPath21=
+OutputVariantName21=
+OutputDefault21=0
+OutputType22=SIMPLISNetlist
+OutputName22=SIMPLIS
+OutputDocumentPath22=
+OutputVariantName22=
+OutputDefault22=0
+OutputType23=XSpiceNetlist
+OutputName23=Mixed Sim Netlist
+OutputDocumentPath23=
+OutputVariantName23=
+OutputDefault23=0
+
+[OutputGroup2]
+Name=Simulator Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=AdvSimNetlist
+OutputName1=Mixed Sim
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=SIMetrixSimulation
+OutputName2=SIMetrix
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=SIMPLISSimulation
+OutputName3=SIMPLIS
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+
+[OutputGroup3]
+Name=Documentation Outputs
+Description=
+TargetPrinter=Virtual Printer
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Composite
+OutputName1=Composite Drawing
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType2=PCB 3D Print
+OutputName2=PCB 3D Print
+OutputDocumentPath2=
+OutputVariantName2=[No Variations]
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType3=PCB 3D Video
+OutputName3=PCB 3D Video
+OutputDocumentPath3=
+OutputVariantName3=[No Variations]
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType4=PCB Print
+OutputName4=PCB Prints
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType5=PCBLIB Print
+OutputName5=PCBLIB Prints
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType6=Report Print
+OutputName6=Report Prints
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType7=Schematic Print
+OutputName7=Schematic Prints
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType8=SimView Print
+OutputName8=SimView Prints
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType9=PCBDrawing
+OutputName9=Draftsman
+OutputDocumentPath9=
+OutputVariantName9=[No Variations]
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType10=PDF3D
+OutputName10=PDF3D
+OutputDocumentPath10=
+OutputVariantName10=[No Variations]
+OutputDefault10=0
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType11=PDF3D MBA
+OutputName11=PDF3D MBA
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+
+[OutputGroup4]
+Name=Assembly Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Assembly
+OutputName1=Assembly Drawings
+OutputDocumentPath1=
+OutputVariantName1=[No Variations]
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType2=Pick Place
+OutputName2=Generates pick and place files
+OutputDocumentPath2=
+OutputVariantName2=[No Variations]
+OutputDefault2=0
+OutputType3=Test Points For Assembly
+OutputName3=Test Point Report
+OutputDocumentPath3=
+OutputVariantName3=[No Variations]
+OutputDefault3=0
+
+[OutputGroup5]
+Name=Fabrication Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Board Stack Report
+OutputName1=Report Board Stack
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType2=CompositeDrill
+OutputName2=Composite Drill Drawing
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType3=Drill
+OutputName3=Drill Drawing/Guides
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType4=Final
+OutputName4=Final Artwork Prints
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType5=Gerber
+OutputName5=Gerber Files
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+OutputType6=Gerber X2
+OutputName6=Gerber X2 Files
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+OutputType7=Mask
+OutputName7=Solder/Paste Mask Prints
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType8=NC Drill
+OutputName8=NC Drill Files
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+OutputType9=ODB
+OutputName9=ODB++ Files
+OutputDocumentPath9=
+OutputVariantName9=[No Variations]
+OutputDefault9=0
+OutputType10=Plane
+OutputName10=Power-Plane Prints
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType11=Test Points
+OutputName11=Test Point Report
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=IPC2581
+OutputName12=IPC-2581 Files
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+
+[OutputGroup6]
+Name=Report Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=BOM_PartType
+OutputName1=Bill of Materials
+OutputDocumentPath1=
+OutputVariantName1=[No Variations]
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType2=ComponentCrossReference
+OutputName2=Component Cross Reference Report
+OutputDocumentPath2=
+OutputVariantName2=[No Variations]
+OutputDefault2=0
+OutputType3=ReportHierarchy
+OutputName3=Report Project Hierarchy
+OutputDocumentPath3=
+OutputVariantName3=[No Variations]
+OutputDefault3=0
+OutputType4=Script
+OutputName4=Script Output
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
+OutputType5=SimpleBOM
+OutputName5=Simple BOM
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+OutputType6=SinglePinNetReporter
+OutputName6=Report Single Pin Nets
+OutputDocumentPath6=
+OutputVariantName6=[No Variations]
+OutputDefault6=0
+OutputType7=BOM_ReportCompare
+OutputName7=BOM Compare
+OutputDocumentPath7=
+OutputVariantName7=[No Variations]
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType8=Export Comments
+OutputName8=Export Comments
+OutputDocumentPath8=
+OutputVariantName8=[No Variations]
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+
+[OutputGroup7]
+Name=Other Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Text Print
+OutputName1=Text Print
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType2=Text Print
+OutputName2=Text Print
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType3=Text Print
+OutputName3=Text Print
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType4=Text Print
+OutputName4=Text Print
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType5=Text Print
+OutputName5=Text Print
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType6=Text Print
+OutputName6=Text Print
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType7=Text Print
+OutputName7=Text Print
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType8=Text Print
+OutputName8=Text Print
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType9=Text Print
+OutputName9=Text Print
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType10=Text Print
+OutputName10=Text Print
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType11=Text Print
+OutputName11=Text Print
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType12=Text Print
+OutputName12=Text Print
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType13=Text Print
+OutputName13=Text Print
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType14=Text Print
+OutputName14=Text Print
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType15=Text Print
+OutputName15=Text Print
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType16=Text Print
+OutputName16=Text Print
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+PageOptions16=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType17=Text Print
+OutputName17=Text Print
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+
+[OutputGroup8]
+Name=Validation Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=BOM_Violations
+OutputName1=BOM Checks Report
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=Component states check
+OutputName2=Server's components states check
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=Configuration compliance
+OutputName3=Environment configuration compliance check
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+OutputType4=Design Rules Check
+OutputName4=Design Rules Check
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType5=Differences Report
+OutputName5=Differences Report
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType6=Electrical Rules Check
+OutputName6=Electrical Rules Check
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType7=Footprint Comparison Report
+OutputName7=Footprint Comparison Report
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+
+[OutputGroup9]
+Name=Export Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=AutoCAD dwg/dxf PCB
+OutputName1=AutoCAD dwg/dxf File PCB
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=AutoCAD dwg/dxf Schematic
+OutputName2=AutoCAD dwg/dxf File Schematic
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=ExportIDF
+OutputName3=Export IDF
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+OutputType4=ExportPARASOLID
+OutputName4=Export PARASOLID
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
+OutputType5=ExportSTEP
+OutputName5=Export STEP
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+OutputType6=ExportVRML
+OutputName6=Export VRML
+OutputDocumentPath6=
+OutputVariantName6=[No Variations]
+OutputDefault6=0
+OutputType7=MBAExportPARASOLID
+OutputName7=Export PARASOLID
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+OutputType8=MBAExportSTEP
+OutputName8=Export STEP
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+OutputType9=Save As/Export PCB
+OutputName9=Save As/Export PCB
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+OutputType10=Save As/Export Schematic
+OutputName10=Save As/Export Schematic
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=Specctra Design PCB
+OutputName11=Specctra Design PCB
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+
+[OutputGroup10]
+Name=PostProcess Outputs
+Description=
+TargetPrinter=Microsoft Print to PDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Copy Files
+OutputName1=Copy Files
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+
+[Modification Levels]
+Type1=1
+Type2=1
+Type3=1
+Type4=1
+Type5=1
+Type6=1
+Type7=1
+Type8=1
+Type9=1
+Type10=1
+Type11=1
+Type12=1
+Type13=1
+Type14=1
+Type15=1
+Type16=1
+Type17=1
+Type18=1
+Type19=1
+Type20=1
+Type21=1
+Type22=1
+Type23=1
+Type24=1
+Type25=1
+Type26=1
+Type27=1
+Type28=1
+Type29=1
+Type30=1
+Type31=1
+Type32=1
+Type33=1
+Type34=1
+Type35=1
+Type36=1
+Type37=1
+Type38=1
+Type39=1
+Type40=1
+Type41=1
+Type42=1
+Type43=1
+Type44=1
+Type45=1
+Type46=1
+Type47=1
+Type48=1
+Type49=1
+Type50=1
+Type51=1
+Type52=1
+Type53=1
+Type54=1
+Type55=1
+Type56=1
+Type57=1
+Type58=1
+Type59=1
+Type60=1
+Type61=1
+Type62=1
+Type63=1
+Type64=1
+Type65=1
+Type66=1
+Type67=1
+Type68=1
+Type69=1
+Type70=1
+Type71=1
+Type72=1
+Type73=1
+Type74=1
+Type75=1
+Type76=1
+Type77=1
+Type78=1
+Type79=1
+Type80=1
+Type81=1
+Type82=1
+Type83=1
+Type84=1
+Type85=1
+Type86=1
+Type87=1
+Type88=1
+Type89=1
+Type90=1
+Type91=1
+Type92=1
+Type93=1
+Type94=1
+Type95=1
+Type96=1
+Type97=1
+Type98=1
+Type99=1
+Type100=1
+Type101=1
+Type102=1
+Type103=1
+Type104=1
+Type105=1
+Type106=1
+Type107=1
+Type108=1
+Type109=1
+Type110=1
+Type111=1
+Type112=1
+Type113=1
+Type114=1
+Type115=1
+Type116=1
+Type117=1
+Type118=1
+Type119=1
+
+[Difference Levels]
+Type1=1
+Type2=1
+Type3=1
+Type4=1
+Type5=1
+Type6=1
+Type7=1
+Type8=1
+Type9=1
+Type10=1
+Type11=1
+Type12=1
+Type13=1
+Type14=1
+Type15=1
+Type16=1
+Type17=1
+Type18=1
+Type19=1
+Type20=1
+Type21=1
+Type22=1
+Type23=1
+Type24=1
+Type25=1
+Type26=1
+Type27=1
+Type28=1
+Type29=1
+Type30=1
+Type31=1
+Type32=1
+Type33=1
+Type34=1
+Type35=1
+Type36=1
+Type37=1
+Type38=1
+Type39=1
+Type40=1
+Type41=1
+Type42=1
+Type43=1
+Type44=1
+Type45=1
+Type46=1
+Type47=1
+Type48=1
+Type49=1
+Type50=1
+Type51=1
+Type52=1
+Type53=1
+Type54=1
+Type55=1
+Type56=1
+Type57=1
+Type58=1
+Type59=1
+Type60=1
+Type61=1
+Type62=1
+Type63=1
+Type64=1
+Type65=1
+Type66=1
+Type67=1
+Type68=1
+
+[Electrical Rules Check]
+Type1=1
+Type2=1
+Type3=2
+Type4=1
+Type5=2
+Type6=2
+Type7=0
+Type8=1
+Type9=1
+Type10=1
+Type11=2
+Type12=2
+Type13=2
+Type14=1
+Type15=1
+Type16=1
+Type17=1
+Type18=1
+Type19=1
+Type20=0
+Type21=0
+Type22=0
+Type23=0
+Type24=1
+Type25=2
+Type26=0
+Type27=2
+Type28=1
+Type29=1
+Type30=1
+Type31=1
+Type32=2
+Type33=0
+Type34=2
+Type35=1
+Type36=2
+Type37=1
+Type38=2
+Type39=2
+Type40=2
+Type41=0
+Type42=2
+Type43=1
+Type44=0
+Type45=0
+Type46=0
+Type47=0
+Type48=0
+Type49=0
+Type50=2
+Type51=0
+Type52=0
+Type53=1
+Type54=1
+Type55=1
+Type56=2
+Type57=1
+Type58=1
+Type59=2
+Type60=0
+Type61=0
+Type62=0
+Type63=0
+Type64=0
+Type65=2
+Type66=3
+Type67=2
+Type68=2
+Type69=2
+Type70=2
+Type71=2
+Type72=2
+Type73=2
+Type74=1
+Type75=2
+Type76=1
+Type77=1
+Type78=1
+Type79=1
+Type80=2
+Type81=3
+Type82=3
+Type83=3
+Type84=3
+Type85=3
+Type86=2
+Type87=2
+Type88=2
+Type89=1
+Type90=1
+Type91=3
+Type92=3
+Type93=2
+Type94=2
+Type95=2
+Type96=2
+Type97=2
+Type98=0
+Type99=1
+Type100=2
+Type101=0
+Type102=2
+Type103=2
+Type104=1
+Type105=2
+Type106=2
+Type107=2
+Type108=2
+Type109=1
+Type110=1
+Type111=1
+Type112=1
+Type113=1
+Type114=2
+Type115=2
+Type116=2
+Type117=3
+Type118=3
+Type119=3
+MultiChannelAlternate=2
+AlternateItemFail=3
+Type122=2
+Type123=1
+Type124=1
+Type125=1
+Type126=1
+
+[ERC Connection Matrix]
+L1=NNNNNNNNNNNWNNNWW
+L2=NNWNNNNWWWNWNWNWN
+L3=NWEENEEEENEWNEEWN
+L4=NNENNNWEENNWNENWN
+L5=NNNNNNNNNNNNNNNNN
+L6=NNENNNNEENNWNENWN
+L7=NNEWNNWEENNWNENWN
+L8=NWEENEENEEENNEENN
+L9=NWEENEEEENEWNEEWW
+L10=NWNNNNNENNEWNNEWN
+L11=NNENNNNEEENWNENWN
+L12=WWWWNWWNWWWNWWWNN
+L13=NNNNNNNNNNNWNNNWW
+L14=NWEENEEEENEWNEEWW
+L15=NNENNNNEEENWNENWW
+L16=WWWWNWWNWWWNWWWNW
+L17=WNNNNNNNWNNNWWWWN
+
+[Annotate]
+SortOrder=3
+SortLocation=0
+ReplaceSubparts=0
+MatchParameter1=Comment
+MatchStrictly1=1
+MatchParameter2=Library Reference
+MatchStrictly2=1
+PhysicalNamingFormat=$Component_$RoomName
+GlobalIndexSortOrder=3
+GlobalIndexSortLocation=0
+
+[PrjClassGen]
+CompClassManualEnabled=0
+CompClassManualRoomEnabled=0
+NetClassAutoBusEnabled=1
+NetClassAutoCompEnabled=0
+NetClassAutoNamedHarnessEnabled=0
+NetClassManualEnabled=1
+NetClassSeparateForBusSections=0
+
+[LibraryUpdateOptions]
+SelectedOnly=0
+UpdateVariants=1
+UpdateToLatestRevision=1
+PartTypes=0
+FullReplace=1
+UpdateDesignatorLock=1
+UpdatePartIDLock=1
+PreserveParameterLocations=1
+PreserveParameterVisibility=1
+DoGraphics=1
+DoParameters=1
+DoModels=1
+AddParameters=0
+RemoveParameters=0
+AddModels=1
+RemoveModels=1
+UpdateCurrentModels=1
+
+[DatabaseUpdateOptions]
+SelectedOnly=0
+UpdateVariants=1
+UpdateToLatestRevision=1
+PartTypes=0
+
+[Comparison Options]
+ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|UseName=0|InclAllRules=0
+ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+
+[SmartPDF]
+PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+
