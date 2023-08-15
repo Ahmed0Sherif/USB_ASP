@@ -1,2 +1,2 @@
 # USB_ASP
-This repository holds the PCB design of a  USBAP on a double-layer board.
+In this repository, you can find a simple project for a USBASP based on the atmega328p.
