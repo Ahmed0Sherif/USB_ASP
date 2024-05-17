@@ -1,7 +1,7 @@
 # Intro
 - I had personal problems with commercial USBASP, so I decided to build my own. 
 - In this repository, you can find a simple project for a USBASP based on the atmega328p.
-- The design is done on Altium Designer.
+- The design is done on Altium Designer 19.
 # Components List:
 |Component|Quantity|Description| Was Used|
 |----|-----|-------|-------|
@@ -20,3 +20,37 @@
 |Male Headers|1|TH Male Headers 1 * 3 Vertical pitch = 2.54mm|Yes|
 |Jumper|1| - |Yes|
 |USB Port|1|TH USB - B|Yes|
+
+# Schematics:
+<p align="center">
+<img src="https://github.com/Ahmed0Sherif/USB_ASP/assets/93788514/c9c8799e-6ade-4f63-ae1f-6f964b84a706" width="600" height="auto">
+</p>
+
+# PCB:
+Version I was designed on a single layer board, with through-hole components.
+<p align="center">
+<img src="https://github.com/Ahmed0Sherif/USB_ASP/assets/93788514/c1fcc8fb-6719-4a1f-8c8c-ab6874f21360" width="500" height="auto">
+</p>
+
+Version II aimed for a smaller size using SMD components and double layer design.
+<p align="center">
+<img src="https://github.com/Ahmed0Sherif/USB_ASP/assets/93788514/3f4467a8-25a9-45aa-afa7-54e8431b495c" width="500" height="auto">
+</p>
+
+<p align="center">
+<img src="https://github.com/Ahmed0Sherif/USB_ASP/assets/93788514/d8ce5e8b-a890-4f3a-a28d-a1f8fb029847" width="500" height="auto">
+</p>
+
+<p align="center">
+<img src="https://github.com/Ahmed0Sherif/USB_ASP/assets/93788514/e6204277-8d47-45d1-9b0b-2fce669fc03d" width="500" height="auto">
+</p>
+
+In Version III, it is aimed to minimize the size even more, and new capabilities, like PIC programming.
+
+# Output:
+<p align="center">
+<img src="https://github.com/Ahmed0Sherif/USB_ASP/assets/93788514/d805d1f1-9082-4ccf-a757-93fbd208c9f4" width="500" height="auto">
+</p>
+
+
+
